@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My DrawApplication</string>
+    <string name="seif_define">自定义文字控件</string>
+</resources>
